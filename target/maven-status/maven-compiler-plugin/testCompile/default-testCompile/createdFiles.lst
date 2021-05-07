@@ -1,0 +1,3 @@
+runner\RunTest.class
+clasesLocators\CreacionDocumento.class
+stepdefinations\StepDefinitionsDocumentoWeb.class
